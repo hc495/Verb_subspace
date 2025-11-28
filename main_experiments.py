@@ -240,7 +240,7 @@ if model_type == "llama-3":
     )
 elif model_type == "qwen":
     if args.amplified_head != {}:
-        print("Warning: amplified_head is not supported for Qwen model. Ignoring amplified_head argument.")
+        print("Warning: amplified_head is not supported currently for Qwen model. Ignoring amplified_head argument.")
     injected_model = Qwen2_injected(
         qwen2_model = ICL_model,
         auto_encoder = auto_encoder,

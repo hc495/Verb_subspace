@@ -1,3 +1,6 @@
+# Almost from ICLR 2025 paper "Revisiting In-context Learning Inference Circuit in Large Language Models".
+# This paper is also written by me, so no copyright issues.
+
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoModel, BitsAndBytesConfig
 import torch
 import random
