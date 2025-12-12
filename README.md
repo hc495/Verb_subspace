@@ -26,7 +26,7 @@ In-context Learning (ICL) is an emerging few-shot learning paradigm based on mod
 
 1. A GPU with more than 48GB VRAM and CUDA (Ver. `12.4` recommended) are strongly required to run all the experiments.
 2. A local strorage with more than `1TB` free space is recommended.
-3. Network connection to `huggingface` is needed to download the pre-trained model. And a `huggingface` user token with access to the [`Llama Family`](https://huggingface.co/meta-llama/Llama-2-7b) model is recommended to run a part of the experiments. A OpenAI API key is also needed to run the interpretation experiments.
+3. Network connection to `huggingface` is needed to download the pre-trained model. And a `huggingface` user token with access to the [`Llama Family`](https://huggingface.co/meta-llama/Llama-2-7b) model is recommended to run a part of the experiments.
 4. `Anaconda` or `Miniconda` is needed.
 
 ### 1. Clone this repo
