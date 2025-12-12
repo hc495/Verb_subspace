@@ -94,7 +94,7 @@ The folder `SOP` contains the scripts to repeat all the major experiments in the
 In detail:
 
 | Num | File Name | Experiment Description | Result in the Paper | Requirement |
-| --- |-----------|------------------------|---------------------| ------------- |
+|:---:|-----------|------------------------|---------------------| ------------- |
 |  1  | `Exp_1_0_low_rank_filter.sh` | Train the explicit TVP and test the evaluation accuracy. | Fig. 3 | - |
 |  2  | `Exp_1_1_symbolic.sh` | Train only one part of TVP (encoder/decoder) and test the evaluation accuracy with symbolic labels. | Table 1 | Experiment 1 |
 |  3  | `Exp_1_2_captial.sh` | Train the explicit TVP on the capital dataset. | Fig. 12 | - |
@@ -113,7 +113,7 @@ In detail:
 The folder `main_visualization` contains the code to visualize the results. You should redirect the path in these ipynbs to your saved log path before running them.
 
 | Num | File Name | Visualization Description | Result in the Paper | Requirement |
-| --- |-----------|---------------------------|---------------------| ------------- |
+|:---:|-----------|---------------------------|---------------------| ------------- |
 |  1  | `explicit_tvp_acc.ipynb` | Visualize the explicit TVP accuracy results. | Fig. 3, Fig. 25 | Experiment 1, 4 |
 |  2  | `eccen_and_cov.ipynb` | Visualize the eccentricity and cov flux results. | Fig. 4, Fig. 5, Fig. 6 | Experiment 1, 6, 7, 8 |
 |  3  | `head_ablation_visualization.ipynb` | Visualize the head ablation and denoising head results. Also, find the denosing heads. | Fig. 7 | Experiment 1, 9 |
