@@ -196,7 +196,10 @@ class Qwen2_injected(nn.Module):
         super(Qwen2_injected, self).__init__()
         self.qwen2_model = qwen2_model
         self.config = self.qwen2_model.config
-        self.auto_encoder = auto_encoder.to(self.qwen2_model.device)
+        try:
+            self.auto_encoder = auto_encoder.to(self.qwen2_model.device)
+        except:
+            self.auto_encoder = auto_encoder
         self.injected_layer_num = injected_layer_num
         if self.injected_layer_num > self.qwen2_model.config.num_hidden_layers or self.injected_layer_num < 0:
             print("warning: injected_layer_num is out of range, will not be injected.")
