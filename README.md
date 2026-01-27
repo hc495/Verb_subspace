@@ -3,11 +3,11 @@
 <p align="center">
   <a href="https://www.hakaze-c.com/">Hakaze Cho</a>, et al.
   <br>
-  <a href="https://arxiv.org/abs/2509.21012">arXiv</a> ?
-  <a href="https://openreview.net/forum?id=VAv1rrPR1A">OpenReview</a> ?
+  <a href="https://arxiv.org/abs/2509.21012">arXiv</a> •
+  <a href="https://openreview.net/forum?id=VAv1rrPR1A">OpenReview</a> •
   <br>
   <br>
-  <a href="https://openreview.net/forum?id=xizpnYNvQq"><img src="https://img.shields.io/badge/ICLR_2026-Accepted-blue?link=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DxizpnYNvQq"></a>
+  <a href="https://openreview.net/forum?id=VAv1rrPR1A"><img src="https://img.shields.io/badge/ICLR_2026-Accepted-blue?link=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DxizpnYNvQq"></a>
   <a href="https://arxiv.org/abs/2509.21012"><img alt="Static Badge" src="https://img.shields.io/badge/arXiv-2509.21012-red?style=flat&link=https%3A%2F%2Farxiv.org%2Fabs%2F2509.21012"></a>
 </p>
 
