@@ -1,10 +1,22 @@
 # Mechanism of Task-oriented Information Removal in In-context Learning
 
-**This repo contains the official code for the following paper:**
+<p align="center">
+  <a href="https://www.hakaze-c.com/">Hakaze Cho</a>, et al.
+  <br>
+  <a href="https://arxiv.org/abs/2509.21012">arXiv</a> ?
+  <a href="https://openreview.net/forum?id=VAv1rrPR1A">OpenReview</a> ?
+  <br>
+  <br>
+  <a href="https://openreview.net/forum?id=xizpnYNvQq"><img src="https://img.shields.io/badge/ICLR_2026-Accepted-blue?link=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DxizpnYNvQq"></a>
+  <a href="https://arxiv.org/abs/2509.21012"><img alt="Static Badge" src="https://img.shields.io/badge/arXiv-2509.21012-red?style=flat&link=https%3A%2F%2Farxiv.org%2Fabs%2F2509.21012"></a>
+</p>
+
+
+**This repo contains the official code for the following paper accepted at ICLR 2026:**
 
 > Hakaze Cho, et al. **"Mechanism of Task-oriented Information Removal in In-context Learning."**
 
-Implemented by [Hakaze Cho](https://www.hakaze-c.com/), the primary contributor of the paper. [arXiv](https://arxiv.org/abs/2509.21012)
+Implemented by [Hakaze Cho](https://www.hakaze-c.com/), the primary contributor of the paper.
 
 ## Overview
 
