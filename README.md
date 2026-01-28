@@ -4,7 +4,7 @@
   <a href="https://www.hakaze-c.com/">Hakaze Cho</a>, et al.
   <br>
   <a href="https://arxiv.org/abs/2509.21012">arXiv</a> •
-  <a href="https://openreview.net/forum?id=VAv1rrPR1A">OpenReview</a> •
+  <a href="https://openreview.net/forum?id=VAv1rrPR1A">OpenReview</a>
   <br>
   <br>
   <a href="https://openreview.net/forum?id=VAv1rrPR1A"><img src="https://img.shields.io/badge/ICLR_2026-Accepted-blue?link=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DxizpnYNvQq"></a>
