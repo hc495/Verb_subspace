@@ -132,13 +132,14 @@ The folder `main_visualization` contains the code to visualize the results. You 
 
 ## Citation
 
-If you find this work useful for your research, please cite [our paper](https://arxiv.org/abs/2509.21012):
+If you find this work useful for your research, please cite [our paper](https://openreview.net/forum?id=VAv1rrPR1A):
 
 ```bibtex
-@article{cho2025mechanism,
-    title={Mechanism of Task-oriented Information Removal in In-context Learning},
-    author={Cho, Hakaze and Yang, Haolin and Minegishi, Gouki and Inoue, Naoya},
-    journal={arXiv preprint arXiv:2509.21012},
-    year={2025}
+@inproceedings{cho2026mechanism,
+  title={Mechanism of Task-oriented Information Removal in In-context Learning},
+  author={Hakaze Cho and Haolin Yang and Gouki Minegishi and Naoya Inoue},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=VAv1rrPR1A}
 }
 ```
