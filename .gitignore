@@ -2,7 +2,6 @@
 __pycache__
 /wandb
 /not_used
-/experiment_matrials
 /point_cloud
 # (SOP_private with huggingface token)
 /SOP_private 
